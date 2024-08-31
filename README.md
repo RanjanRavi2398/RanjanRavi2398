@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ravi Ranjan Kumar
 - 👀 I’m interested in Data Science , Machine Learning and Software Development.
-- 🌱 I’m currently working as software developer in Boeing Private Limited and pursuing master of science from university of Arizona in Data Science.
-- 💞️ I’m looking to collaborate on  open source machine learning and data science project
+- 🌱 I’m currently working as Full Stack Software developer in Boeing Private Limited.
+-  MS in Data Science From University of Arizona
+- 💞️ I’m looking to collaborate as open source contributor in machine learning and data science project
 
 
 <!---
